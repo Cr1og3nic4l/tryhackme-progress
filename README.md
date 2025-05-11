@@ -40,3 +40,4 @@ I’m currently studying cybersecurity with a strong focus on Windows-based expl
 - Start uploading CTF notes
 - Share personal walkthroughs
 - Track badge growth
+![Immagine WhatsApp 2025-05-11 ore 21 34 39_447e0f6a](https://github.com/user-attachments/assets/1cae9cc6-9731-4142-91ae-c64c0d6dbc75)
