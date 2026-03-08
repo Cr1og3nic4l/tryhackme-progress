@@ -1,6 +1,38 @@
-# tryhackme-progress
-My journey through TryHackMe labs – rooms, flags, and insights from real practice.
 # TryHackMe Progress – Cr1og3nic4l
+
+Documenting my cybersecurity learning path through TryHackMe labs, privilege escalation exercises, and real-world security practice.
+
+---
+
+## 🎯 Learning Objectives
+
+This repository documents my hands-on cybersecurity training through the TryHackMe platform.
+
+Main skills developed:
+
+- Windows privilege escalation
+- Linux enumeration techniques
+- Web application reconnaissance
+- Network fundamentals and OSI model
+- Basic exploitation workflow
+- Command-line investigation and manual analysis
+
+---
+
+## 🎓 Certifications & Training
+
+Current cybersecurity learning path includes:
+
+- Cisco Networking Basics (Cisco Networking Academy)
+- Cisco Introduction to Cybersecurity
+- OSINT Fundamentals Certifications (3 completed)
+
+Currently studying:
+
+- TryHackMe Security Analyst Level 1 (SAL1)
+- TryHackMe Pentesting Path (PT1)
+  
+---
 
 Welcome to my TryHackMe hacking journey.
 
@@ -10,10 +42,14 @@ I’m currently studying cybersecurity with a strong focus on Windows-based expl
 
 ## 🔒 Profile Highlights
 
-- 🧠 **Rooms completed:** 8  
-- 🔥 **Streak:** 2 days  
-- 🏅 **Badges:** 3  
-- 🌍 **Rank:** 839,547  
+• Rooms completed: 30  
+• Rank: Top 20%  
+• Badges: 7  
+• Focus areas:
+  - Windows Privilege Escalation
+  - Linux Enumeration
+  - Network Fundamentals
+  - Web Application Basics
 
 ---
 
@@ -22,7 +58,7 @@ I’m currently studying cybersecurity with a strong focus on Windows-based expl
 | Room Name         | Focus Area            | Notes |
 |------------------|------------------------|-------|
 | Windows PrivEsc  | Privilege Escalation   | Used manual methods in CMD, found flags creatively |
-| WS17 vulnerable  | Windows Server Exploit | Gained root and found 3 flags ![link](tryhackme-progress/WS17 – Windows Server 2017 Privilege Escalation) |
+| WS17 vulnerable  | Windows Server Exploit | Gained root and found 3 flags | WS17 – Windows Server 2017 | Privilege Escalation | Gained SYSTEM access and captured multiple flags. [Write-up](WS17%20–%20Windows%20Server%202017%20Privilege%20Escalation.md) | |
 | Basic Pentesting | Scanning & Enumeration | Good refresh, Linux side |
 
 ---
@@ -39,4 +75,9 @@ I’m currently studying cybersecurity with a strong focus on Windows-based expl
 - Start uploading CTF notes
 - Share personal walkthroughs
 - Track badge growth
-![Immagine WhatsApp 2025-05-11 ore 21 34 39_447e0f6a](https://github.com/user-attachments/assets/1cae9cc6-9731-4142-91ae-c64c0d6dbc75)
+
+## 🔗 TryHackMe Profile
+
+View my full training progress and completed rooms:
+
+https://tryhackme.com/p/Cr1og3nic4l
