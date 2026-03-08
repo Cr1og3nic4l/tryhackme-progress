@@ -22,7 +22,7 @@ I’m currently studying cybersecurity with a strong focus on Windows-based expl
 | Room Name         | Focus Area            | Notes |
 |------------------|------------------------|-------|
 | Windows PrivEsc  | Privilege Escalation   | Used manual methods in CMD, found flags creatively |
-| WS17 vulnerable  | Windows Server Exploit | Gained root and found 3 flags ![link](https://github.com/Cr1og3nic4l/tryhackme-progress/commit/e4fd233dce09b6b3c5a4954a93096c2af9276831)|
+| WS17 vulnerable  | Windows Server Exploit | Gained root and found 3 flags ![link](WS17 – Windows Server 2017 Privilege Escalation)|
 | Basic Pentesting | Scanning & Enumeration | Good refresh, Linux side |
 
 ---
