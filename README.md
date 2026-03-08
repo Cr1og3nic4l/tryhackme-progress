@@ -22,7 +22,7 @@ I’m currently studying cybersecurity with a strong focus on Windows-based expl
 | Room Name         | Focus Area            | Notes |
 |------------------|------------------------|-------|
 | Windows PrivEsc  | Privilege Escalation   | Used manual methods in CMD, found flags creatively |
-| WS17 vulnerable  | Windows Server Exploit | Gained root and found 3 flags |
+| WS17 vulnerable  | Windows Server Exploit | Gained root and found 3 flags |![link](
 | Basic Pentesting | Scanning & Enumeration | Good refresh, Linux side |
 
 ---
@@ -30,7 +30,6 @@ I’m currently studying cybersecurity with a strong focus on Windows-based expl
 ## 🧰 Tools & Systems
 
 - 🖥️ Kali Linux, Tails OS, custom Hacktop
-- ⚙️ Flipper Zero + WiFi dev board
 - 🔐 Focus on network access, Windows escalation, social engineering
 
 ---
