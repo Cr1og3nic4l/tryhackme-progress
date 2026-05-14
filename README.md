@@ -1,84 +1,51 @@
-# TryHackMe Progress – Cr1og3nic4l
+# TryHackMe Progress - Cr1og3nic4l
 
-Documenting my cybersecurity learning path through TryHackMe labs, privilege escalation exercises, and real-world security practice.
+![SEC0 Badge](https://img.shields.io/badge/SEC0-Completed-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-SEC1%20In%20Progress-blue)
 
----
+**Cybersecurity Learning Journey**  
+Documentation of my hands-on TryHackMe path, including rooms, modules, writeups, commands and flags.
 
-## 🎯 Learning Objectives
+## Current Progress
 
-This repository documents my hands-on cybersecurity training through the TryHackMe platform.
-
-Main skills developed:
-
-- Windows privilege escalation
-- Linux enumeration techniques
-- Web application reconnaissance
-- Network fundamentals and OSI model
-- Basic exploitation workflow
-- Command-line investigation and manual analysis
+| Path              | Status             | Certificate | Notes |
+|-------------------|--------------------|-------------|-------|
+| **SEC0**          | ✅ Completed       | Yes         | Full path + exam passed |
+| **SEC1**          | 🔄 In Progress     | No          | Currently on **Cryptography** |
+| PT1 / SAL1        | Planned            | -           | Next targets |
 
 ---
 
-## 🎓 Certifications & Training
+## SEC0 - Introduction to Cyber Security
 
-Current cybersecurity learning path includes:
+**Completed** — All main modules + final exam.
 
-- Cisco Networking Basics (Cisco Networking Academy)
-- Cisco Introduction to Cybersecurity
-- OSINT Fundamentals Certifications (3 completed)
+**Modules covered:**
+- Introduction to Cyber Security
+- Network Fundamentals
+- Linux Fundamentals
+- Windows Fundamentals
+- Active Directory Basics
+- ... and more
 
-Currently studying:
-
-- TryHackMe Security Analyst Level 1 (SAL1)
-- TryHackMe Pentesting Path (PT1)
-  
----
-
-Welcome to my TryHackMe hacking journey.
-
-I’m currently studying cybersecurity with a strong focus on Windows-based exploitation, privilege escalation, and real-world pentesting paths. I use my experience with MS-DOS to explore systems from a unique angle.
+*(Detailed writeups available in the SEC0 folder)*
 
 ---
 
-## 🔒 Profile Highlights
-
-• Rooms completed: 30  
-• Rank: Top 20%  
-• Badges: 7  
-• Focus areas:
-  - Windows Privilege Escalation
-  - Linux Enumeration
-  - Network Fundamentals
-  - Web Application Basics
+## SEC1 - In Progress
+**Current module:** Cryptography
 
 ---
 
-## 🧪 Notable Labs
+## Repository Structure
 
-| Room Name         | Focus Area            | Notes |
-|------------------|------------------------|-------|
-| Windows PrivEsc  | Privilege Escalation   | Used manual methods in CMD, found flags creatively |
-| WS17 vulnerable  | Windows Server Exploit | Gained root and found 3 flags | WS17 – Windows Server 2017 | 
-| Privilege Escalation | Gained SYSTEM access and captured multiple flags | [Write-up](./WS17%20%E2%80%93%20Windows%20Server%202017%20Privilege%20Escalation) |
-| Basic Pentesting | Scanning & Enumeration | Good refresh, Linux side |
+- `/SEC0/` → Writeups for all completed modules
+- `/SEC1/` → Current modules (Cryptography, etc.)
+- `/writeups/` → Detailed reports and notes
+- `/badges/` → Certificates and achievement screenshots
 
 ---
 
-## 🧰 Tools & Systems
+**Goal:** Build a clean, professional portfolio that shows real practical experience.
 
-- 🖥️ Kali Linux, Tails OS, custom Hacktop
-- 🔐 Focus on network access, Windows escalation, social engineering
-
----
-
-## 📌 Next Goals
-
-- Start uploading CTF notes
-- Share personal walkthroughs
-- Track badge growth
-
-## 🔗 TryHackMe Profile
-
-View my full training progress and completed rooms:
-
-https://tryhackme.com/p/Cr1og3nic4l
+Last updated: May 14, 2026
